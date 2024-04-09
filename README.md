@@ -5,7 +5,7 @@
 
 ![SergioLuiz10 GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioLuiz10&show_icons=true&theme=gruvbox)
 
-### Meu arsenal tecnológico
+### Meu arsenal tecnológico:
 <div style="display:inline_block"><br/>
     <a href="#">
         <img align="center" alt="Java" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/>

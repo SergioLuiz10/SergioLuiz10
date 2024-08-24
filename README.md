@@ -7,8 +7,9 @@
 ### Meu arsenal tecnológico:
 <div style="display:inline_block">
     <img align="center" alt="Java" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/>
-    <img align="center" alt="MySQL" src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
+    <img align="center" alt="MySQL Shark" src="https://img.icons8.com/ios-filled/100/000000/shark.png"/>
 </div>
+
 
 
 

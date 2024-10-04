@@ -10,8 +10,8 @@
     <img align="center" alt="Java" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/>
     <img align="center" alt="MySQL" src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
     <img align="center" alt="Spring" src="https://img.icons8.com/color/96/000000/spring-logo.png"/>
-<img align="center" alt="Maven" src="https://img.icons8.com/color/96/000000/apache-maven.png"/>
-    <img align="center" alt="JPA" src="https://img.icons8.com/external-becris-lineal-color-becris/96/000000/external-data-science-data-science-becris-lineal-color-becris.png"/>
+    <img align="center" alt="Maven" src="https://img.icons8.com/?size=512&id=OwZDJGNMRJGk&format=png" />
+   <img align="center" alt="JPA" src="https://img.icons8.com/external-becris-lineal-color-becris/96/000000/external-data-science-data-science-becris-lineal-color-becris.png"/>
     <img align="center" alt="Postman" src="https://img.icons8.com/dusk/96/000000/postman-api.png"/>
     <img align="center" alt="Hibernate" src="https://img.icons8.com/color/96/000000/hibernate.png"/>
 </div>

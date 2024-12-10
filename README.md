@@ -10,4 +10,6 @@
     <img align="center" alt="Spring" src="https://img.icons8.com/color/96/000000/spring-logo.png"/>
     <img align="center" alt="Postman" src="https://img.icons8.com/dusk/96/000000/postman-api.png"/>
     <img align="center" alt="Python" src="https://img.icons8.com/color/96/000000/python--v1.png"/>
+    <img align="center" alt="Pandas" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-pandas-a-software-library-written-for-the-python-programming-language-logo-shadow-tal-revivo.png"/>
+    <img align="center" alt="Matplotlib" src="https://img.icons8.com/external-flat-juicy-fish/96/000000/external-matplotlib-data-science-flat-flat-juicy-fish.png"/>
 </div>

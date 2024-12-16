@@ -23,6 +23,7 @@ Aqui estão as linguagens, frameworks e ferramentas que utilizo no meu dia a dia
     <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
     <img src="https://img.icons8.com/external-flat-juicy-fish/96/000000/external-database-cloud-computing-flat-flat-juicy-fish.png" alt="H2 Database" title="H2 Database"/>
 </div>
+
 ### Frameworks e Ferramentas:  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring" title="Spring Framework"/>

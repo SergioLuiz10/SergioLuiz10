@@ -17,7 +17,7 @@ Aqui estão as linguagens, frameworks e ferramentas que utilizo no meu dia a dia
     <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" title="Python"/>
 </div>
 
-### Banco de Dados:  
+### Bancos de Dados:  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
     <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
@@ -37,16 +37,14 @@ Aqui estão as linguagens, frameworks e ferramentas que utilizo no meu dia a dia
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://img.icons8.com/color/96/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
     <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="VS Code"/>
+    <img src="https://img.icons8.com/color/96/000000/java-eclipse.png" alt="Eclipse" title="Eclipse"/>
 </div>
 
 ---
 
 ## 🚀 **Sobre Mim**
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia! Sempre buscando aprender e criar soluções práticas para problemas reais. Gosto de explorar novas ferramentas, linguagens e frameworks para expandir meus conhecimentos e me preparar para desafios no mercado de trabalho.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia! Sempre buscando aprender e criar soluções práticas para problemas reais.  
 
-Atualmente, estou focado em **desenvolvimento backend** usando **Java** e **Spring Framework**, com integração de **bancos de dados MySQL**. Também trabalho em **projetos pessoais**, colocando em prática conceitos de APIs e boas práticas de desenvolvimento.
+Tenho focado meus estudos em **desenvolvimento backend** com **Java** e **Spring Framework**, integrando **bancos de dados MySQL**, **PostgreSQL** e **H2 Database**.  
 
----
-
-### 🔗 **Outros Recursos**
-Seja bem-vindo ao meu repositório, onde compartilho projetos, ideias e aprendizados! 🌟  
+Além disso, estudo **Data Science**, utilizando bibliotecas e ferramentas como **Pandas**, **Matplotlib** e **Jupyter Notebook**, para explorar e visualizar dados

@@ -11,16 +11,48 @@ Conecte-se comigo em suas plataformas favoritas!
 ## 🛠️ Meu Arsenal Tecnológico
 Aqui estão as linguagens, frameworks e ferramentas que utilizo no meu dia a dia para criar projetos incríveis:
 
-Linguagens de Programação:
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/> <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" title="Python"/> </div>
-Bancos de Dados:
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" title="MySQL"/> <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://img.icons8.com/external-flat-juicy-fish/96/000000/external-database-cloud-computing-flat-flat-juicy-fish.png" alt="H2 Database" title="H2 Database"/> </div>
-Frameworks e Ferramentas:
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring" title="Spring Framework"/> <img src="https://img.icons8.com/dusk/96/000000/postman-api.png" alt="Postman" title="Postman"/> <img src="https://img.icons8.com/fluency/96/000000/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-power-bi-a-business-analytics-service-that-delivers-insights-business-intelligence-logo-color-tal-revivo.png" alt="Power BI" title="Power BI"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="96" height="96" alt="Pandas" title="Pandas"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="96" height="96" alt="Matplotlib" title="Matplotlib"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="96" height="96" alt="NumPy" title="NumPy"/> </div>
-Bibliotecas e APIs para Dados:
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <div style="text-align: center;"> <img src="https://static.wixstatic.com/media/24d51c_33b2b10e6de54741b429153b8f5cf0f5~mv2.png" width="96" height="96" alt="yfinance" title="yfinance"/> <p><strong>yfinance</strong></p> </div> <div style="text-align: center;"> <img src="https://avatars.githubusercontent.com/u/58405364?s=200&v=4" width="96" height="96" alt="Fundamentus" title="Fundamentus"/> <p><strong>Fundamentus</strong></p> </div> </div>
-IDEs e Editores de Código:
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://img.icons8.com/color/96/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/> <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="VS Code"/> <img src="https://img.icons8.com/offices/96/000000/java-eclipse.png" alt="Eclipse" title="Eclipse"/> </div>
+### Linguagens de Programação:
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/> 
+<img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" title="Python"/>
+</div>
+
+### Bancos de Dados:
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" title="MySQL"/> 
+<img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/> 
+<img src="https://img.icons8.com/external-flat-juicy-fish/96/000000/external-database-cloud-computing-flat-flat-juicy-fish.png" alt="H2 Database" title="H2 Database"/> 
+</div>
+
+### Frameworks e Ferramentas:
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring" title="Spring Framework"/> 
+<img src="https://img.icons8.com/dusk/96/000000/postman-api.png" alt="Postman" title="Postman"/> 
+<img src="https://img.icons8.com/fluency/96/000000/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/> 
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-power-bi-a-business-analytics-service-that-delivers-insights-business-intelligence-logo-color-tal-revivo.png" alt="Power BI" title="Power BI"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="96" height="96" alt="Pandas" title="Pandas"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="96" height="96" alt="Matplotlib" title="Matplotlib"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="96" height="96" alt="NumPy" title="NumPy"/> 
+</div>
+
+### Bibliotecas e APIs para Dados:
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="text-align: center;">
+<img src="https://static.wixstatic.com/media/24d51c_33b2b10e6de54741b429153b8f5cf0f5~mv2.png" width="96" height="96" alt="yfinance" title="yfinance"/> 
+<p><strong>yfinance</strong></p> 
+</div>
+<div style="text-align: center;">
+<img src="https://avatars.githubusercontent.com/u/58405364?s=200&v=4" width="96" height="96" alt="Fundamentus" title="Fundamentus"/> 
+<p><strong>Fundamentus</strong></p> 
+</div>
+</div>
+
+### IDEs e Editores de Código:
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<img src="https://img.icons8.com/color/96/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/> 
+<img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="VS Code"/> 
+<img src="https://img.icons8.com/offices/96/000000/java-eclipse.png" alt="Eclipse" title="Eclipse"/> 
+</div>
 
 ---
 
@@ -29,4 +61,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 
 Tenho focado meus estudos em **desenvolvimento backend** com **Java** e **Spring Framework**, integrando **bancos de dados MySQL**, **PostgreSQL** e **H2 Database**.  
 
-Além disso, estudo **Data Science**, utilizando bibliotecas e ferramentas como **Pandas**, **Matplotlib** e **Jupyter Notebook**, para explorar e visualizar dados
+Além disso, estudo **Data Science**, utilizando bibliotecas e ferramentas como **Pandas**, **Matplotlib** e **Jupyter Notebook**, para explorar e visualizar dados.

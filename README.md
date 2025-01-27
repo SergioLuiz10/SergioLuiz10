@@ -1,3 +1,13 @@
+## 🌟 **Entre em Contato Comigo**  
+Conecte-se comigo em suas plataformas favoritas!  
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioluizteixeira12345@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/serjo.__/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-nunes-02a314287/)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571981325228)  
+## 🛠️ Meu Arsenal Tecnológico
+Aqui estão as linguagens, frameworks e ferramentas que utilizo no meu dia a dia para criar projetos incríveis:
+
 ### Linguagens de Programação:  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>

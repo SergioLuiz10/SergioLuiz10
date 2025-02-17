@@ -5,6 +5,7 @@ Conecte-se comigo em suas plataformas favoritas!
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/serjo.__/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-nunes-02a314287/)  
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571981325228)  
+
 ## 🛠️ Meu Arsenal Tecnológico
 Aqui estão as linguagens, frameworks e ferramentas que utilizo no meu dia a dia para criar projetos incríveis:
 
@@ -28,6 +29,8 @@ Aqui estão as linguagens, frameworks e ferramentas que utilizo no meu dia a dia
     <img src="https://img.icons8.com/fluency/96/000000/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="96" height="96" alt="Pandas" title="Pandas"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="96" height="96" alt="Matplotlib" title="Matplotlib"/>
+    <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" title="Excel"/>
+    <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" title="Power BI"/>
 </div>
 
 ### IDEs e Editores de Código:  
@@ -44,4 +47,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 
 Tenho focado meus estudos em **desenvolvimento backend** com **Java** e **Spring Framework**, integrando **bancos de dados MySQL**, **PostgreSQL** e **H2 Database**.  
 
-Além disso, estudo **Data Science**, utilizando bibliotecas e ferramentas como **Pandas**, **Matplotlib** e **Jupyter Notebook**, para explorar e visualizar dados
+Além disso, estudo **Data Science** e **Análise de Dados**, utilizando ferramentas como **Pandas**, **Matplotlib**, **Jupyter Notebook**, **Excel** e **Power BI** para explorar e visualizar dados de forma eficiente.

@@ -23,14 +23,7 @@ Aqui estão as linguagens, frameworks e ferramentas que utilizo no meu dia a dia
 </div>
 
 ### Frameworks e Ferramentas:  
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring" title="Spring Framework"/>
-    <img src="https://img.icons8.com/dusk/96/000000/postman-api.png" alt="Postman" title="Postman"/>
-    <img src="https://img.icons8.com/fluency/96/000000/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="96" height="96" alt="Pandas" title="Pandas"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="96" height="96" alt="Matplotlib" title="Matplotlib"/>
-    <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" title="Excel"/>
-    <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" title="Power BI"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring" title="Spring Framework"/> <img src="https://img.icons8.com/dusk/96/000000/postman-api.png" alt="Postman" title="Postman"/> <img src="https://img.icons8.com/fluency/96/000000/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="96" height="96" alt="Pandas" title="Pandas"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="96" height="96" alt="Matplotlib" title="Matplotlib"/> <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" title="Excel"/> <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" title="Power BI"/> <img src="https://img.icons8.com/fluency/96/000000/docker.png" alt="Docker" title="Docker"/> 
 </div>
 
 ### IDEs e Editores de Código:  
